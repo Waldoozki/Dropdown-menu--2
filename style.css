@@ -116,7 +116,7 @@ body {
   }
   .menu__links {
     position: fixed;
-    max-width: 400px;
+    max-width: 450px;
     width: 100%;
     top: 75px;
     bottom: 0;
